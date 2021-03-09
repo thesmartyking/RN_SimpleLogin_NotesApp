@@ -2,7 +2,7 @@
 Creative UI-Login, Signup, Forget Password Screen with Notes App in React Native
 Notes-App Contains CRUD Applications with using State Management & Some cocepts of Redux, Hooks, Navigations, Material UI.
 
-## Screenshots of Simple Login-Notes App
+## Snapshots of Simple Login-Notes App
 
 [![Microsoft-Teams-image.jpg](https://i.postimg.cc/xTCN7cLt/Microsoft-Teams-image.jpg)](https://postimg.cc/BtrvPZYK)
 [![Microsoft-Teams-image-1.jpg](https://i.postimg.cc/d08hddKt/Microsoft-Teams-image-1.jpg)](https://postimg.cc/Jyz7Csn9)
